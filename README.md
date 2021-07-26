@@ -1,1 +1,1 @@
-# QA-tasks-NLP
+### This repo contains QA related projects using NLP techniques.
