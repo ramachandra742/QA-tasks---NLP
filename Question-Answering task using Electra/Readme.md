@@ -12,4 +12,13 @@ Bellow is the pipeline:
 * Electra model try to find the answer given the candidate paragraphs.
 
 #### How to run?
-This QA  task was done on Google Colab using flask-ngrok for serving.
+This QA  task was done on Google Colab using flask-ngrok for serving. For more details, check [here](https://github.com/ramachandra742/QA_tasks-NLP/blob/master/Question-Answering%20task%20using%20Electra/Question_Answering_task_using_ALBERT.ipynb).
+
+### Inference from Electra QA model      
+![](https://github.com/ramachandra742/QA_tasks-NLP/blob/master/Question-Answering%20task%20using%20Electra/fig1.png)    
+![](https://github.com/ramachandra742/QA_tasks-NLP/blob/master/Question-Answering%20task%20using%20Electra/fig2.png)
+
+
+References:   
+https://github.com/renatoviolin/Question-Answering-Albert-Electra       
+https://huggingface.co/deepset/electra-base-squad2  
